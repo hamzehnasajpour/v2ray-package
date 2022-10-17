@@ -1,0 +1,440 @@
+Package: v2ray-core
+Version: 4.36.2-1
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1615945666
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a9
+Installed-Size: 13041476
+Filename: v2ray-core_4.36.2-1_arm_cortex-a9.ipk
+Size: 12991561
+SHA256sum: 71d392a7d7512a5730d1c9cd5124ea32c06a88ce1128cd0a43e61db832e1d8aa
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.37.2-2
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1618194710
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a9
+Installed-Size: 13315842
+Filename: v2ray-core_4.37.2-2_arm_cortex-a9.ipk
+Size: 13265355
+SHA256sum: 94df294063a423d4509bd9e18625792d572ffdbb7ba21d126472a71297e94242
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.37.3-1
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1618277317
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a9
+Installed-Size: 13319676
+Filename: v2ray-core_4.37.3-1_arm_cortex-a9.ipk
+Size: 13268963
+SHA256sum: 6c69cba33376c00b615428e7793e0e2a4e918c5602d7ad7b8b2a7e924369653e
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.38.3-1
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1619835141
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a9
+Installed-Size: 13996980
+Filename: v2ray-core_4.38.3-1_arm_cortex-a9.ipk
+Size: 13946072
+SHA256sum: 0706546c7cbc999bd117e9f56a4b3d0b876ccf7abd6cb0b23ad112729edc88ab
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.39.2-1
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1622085177
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a9
+Installed-Size: 14062346
+Filename: v2ray-core_4.39.2-1_arm_cortex-a9.ipk
+Size: 14006975
+SHA256sum: 06e9c70841431bf3ee3a3d59aea739be037fb5178fcbfbd3def6b837d10e379b
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.40.1-1
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1624412964
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a9
+Installed-Size: 14114650
+Filename: v2ray-core_4.40.1-1_arm_cortex-a9.ipk
+Size: 14060319
+SHA256sum: d0971089f7096848e08ec5c54c727ed42c4afb470af95b8783b63ca923ccd315
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.41.1-1
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1628992473
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a9
+Installed-Size: 15624281
+Filename: v2ray-core_4.41.1-1_arm_cortex-a9.ipk
+Size: 14835782
+SHA256sum: 9520de0051931942e0625fed13d223894964a75c78df9e110c974b66cf25d9ea
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.42.2-1
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1632189550
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a9
+Installed-Size: 15123290
+Filename: v2ray-core_4.42.2-1_arm_cortex-a9.ipk
+Size: 14544672
+SHA256sum: 42c24358721507df24c4cea65da308eccf9a1dc8a68ecd9673b6b6ca63975e23
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.43.0-1
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1634868599
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a9
+Installed-Size: 15086468
+Filename: v2ray-core_4.43.0-1_arm_cortex-a9.ipk
+Size: 14540278
+SHA256sum: 6bd44553db3fafbc1c4bb32dd255cb12c9328ecacdee595a0ff583d28df1a3ec
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.43.0-2
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1635419077
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a9
+Installed-Size: 15065582
+Filename: v2ray-core_4.43.0-2_arm_cortex-a9.ipk
+Size: 14544065
+SHA256sum: 4554893bc5456f4773ac0d95b94b7b641e596b74207ea6a9c85c82924220834b
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.44.0-1
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1638756102
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a9
+Installed-Size: 15274992
+Filename: v2ray-core_4.44.0-1_arm_cortex-a9.ipk
+Size: 14681135
+SHA256sum: ff7cefd3404b8cfb514c89a5d2b5eb4c3ad165b0add02f58adc00d5f711a60da
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core-mini
+Version: 4.36.2-1
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core-mini
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1615945666
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a9
+Installed-Size: 3622073
+Filename: v2ray-core-mini_4.36.2-1_arm_cortex-a9.ipk
+Size: 3623582
+SHA256sum: c7fe7d77f3a8e52fcd94f4c8cd3fc6760522032d953e4d517a25e8ab65efeeaa
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.37.2-2
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core-mini
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1618194710
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a9
+Installed-Size: 3696286
+Filename: v2ray-core-mini_4.37.2-2_arm_cortex-a9.ipk
+Size: 3697812
+SHA256sum: 25f95bcba3d77314b458c439365016a157d369b9b2d8c7b1fd895c80dd101ed7
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.37.3-1
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core-mini
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1618277317
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a9
+Installed-Size: 3698044
+Filename: v2ray-core-mini_4.37.3-1_arm_cortex-a9.ipk
+Size: 3699562
+SHA256sum: 842a3e8ebae7e71fa6fde7f658c84c88d007fab318bf50f7402021e98da903b2
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.38.3-1
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core-mini
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1619835141
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a9
+Installed-Size: 3915823
+Filename: v2ray-core-mini_4.38.3-1_arm_cortex-a9.ipk
+Size: 3917383
+SHA256sum: 41a9daf2d807f6f4b7552e991b58884c329c511976a5f6e8fb3316e6d45b0e53
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.39.2-1
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core-mini
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1622085177
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a9
+Installed-Size: 3933034
+Filename: v2ray-core-mini_4.39.2-1_arm_cortex-a9.ipk
+Size: 3934588
+SHA256sum: 7e75c7e98d2362d6658793ff04111c6dc005182a432fe518bd279bcef95546b0
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.40.1-1
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core-mini
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1624412964
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a9
+Installed-Size: 3940928
+Filename: v2ray-core-mini_4.40.1-1_arm_cortex-a9.ipk
+Size: 3942492
+SHA256sum: 74ecf68ba6819a621d62c5c8cfac5277a1af373ad831fdbfa291227a6dcca2c6
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.41.1-1
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core-mini
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1628992473
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a9
+Installed-Size: 3946881
+Filename: v2ray-core-mini_4.41.1-1_arm_cortex-a9.ipk
+Size: 3948439
+SHA256sum: 5cfe1b5941bcaa0ef3ba5707c455796b829ded15b01f8bbe94572842808ad2ad
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.42.2-1
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core-mini
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1632189550
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a9
+Installed-Size: 3865772
+Filename: v2ray-core-mini_4.42.2-1_arm_cortex-a9.ipk
+Size: 3867316
+SHA256sum: 207ae18dc6492968d91903f4dd2cb64516405863f6922585a8feb540cb92ffb5
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.43.0-1
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core-mini
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1634868599
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a9
+Installed-Size: 3867682
+Filename: v2ray-core-mini_4.43.0-1_arm_cortex-a9.ipk
+Size: 3869208
+SHA256sum: 020c87cab0be4570497bf934022f03eaab14473601488a94eafed18ac6aafcf3
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.43.0-2
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core-mini
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1635419077
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a9
+Installed-Size: 3866692
+Filename: v2ray-core-mini_4.43.0-2_arm_cortex-a9.ipk
+Size: 3868296
+SHA256sum: 7eb7e96011e33399aa17e965741cd1bd95cebd34d1f54e1b81c9457271332e67
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.44.0-1
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core-mini
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1638756102
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a9
+Installed-Size: 3874066
+Filename: v2ray-core-mini_4.44.0-1_arm_cortex-a9.ipk
+Size: 3875625
+SHA256sum: ebf5292a9aba674b73b3e3aec6c5ffc596773bae7640c9dcb72518940c57ad14
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+

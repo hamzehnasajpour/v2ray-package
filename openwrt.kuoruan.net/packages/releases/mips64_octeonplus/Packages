@@ -1,0 +1,330 @@
+Package: v2ray-core
+Version: 4.36.2-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mips64_octeonplus
+Installed-Size: 12555440
+Filename: v2ray-core_4.36.2-1_mips64_octeonplus.ipk
+Size: 12483597
+SHA256sum: 603b264ffffc5ed526059594b0530d8897dc9371e0d896ba068de25299b5dc64
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.37.2-2
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mips64_octeonplus
+Installed-Size: 12835537
+Filename: v2ray-core_4.37.2-2_mips64_octeonplus.ipk
+Size: 12763435
+SHA256sum: 604d3d0c6c27f943bd455a10cc0eb381133815bb4db94deb98df26ff2e3e60d6
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.37.3-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mips64_octeonplus
+Installed-Size: 12832892
+Filename: v2ray-core_4.37.3-1_mips64_octeonplus.ipk
+Size: 12761779
+SHA256sum: 8f00e93959ba52204d305b3d21671a498f292e4f946abc7ac8459583fb1afb94
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.38.3-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mips64_octeonplus
+Installed-Size: 13478803
+Filename: v2ray-core_4.38.3-1_mips64_octeonplus.ipk
+Size: 13405893
+SHA256sum: 9c4552e1daccbfb58ed70d7519c7cd61ea2a89cafe5030c8a75949d22595b2d1
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.39.2-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mips64_octeonplus
+Installed-Size: 13554061
+Filename: v2ray-core_4.39.2-1_mips64_octeonplus.ipk
+Size: 13477860
+SHA256sum: 85f67d84cb2345ec1b87d211cd5c4dcb5d3a5005ab2162673c18c7206eab6777
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.40.1-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mips64_octeonplus
+Installed-Size: 13600603
+Filename: v2ray-core_4.40.1-1_mips64_octeonplus.ipk
+Size: 13523058
+SHA256sum: 8ff5330847f562a527d760bbafb07e6943b2c32638603be28a1729d44893792e
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.41.1-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mips64_octeonplus
+Installed-Size: 15110496
+Filename: v2ray-core_4.41.1-1_mips64_octeonplus.ipk
+Size: 14300061
+SHA256sum: 3469fe7340092d7d9318034bcebbf17f42b70749d7877be3ceb1aede14016029
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.42.2-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mips64_octeonplus
+Installed-Size: 14517010
+Filename: v2ray-core_4.42.2-1_mips64_octeonplus.ipk
+Size: 13916321
+SHA256sum: 28e53caa5f4ba675de009afbd228f45a001cc5d11af14435dd844dcce1e95e26
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.43.0-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mips64_octeonplus
+Installed-Size: 14474990
+Filename: v2ray-core_4.43.0-1_mips64_octeonplus.ipk
+Size: 13916282
+SHA256sum: 46ae1832b04db2e292c2182a18553f1aba67ee213ea9a03fe4f93bdebeb6469f
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.43.0-2
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mips64_octeonplus
+Installed-Size: 14461521
+Filename: v2ray-core_4.43.0-2_mips64_octeonplus.ipk
+Size: 13901090
+SHA256sum: f09ff934f75ad35f659e60b151b0117411af26b98073fd371c7c5e1f18d91a9a
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.44.0-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mips64_octeonplus
+Installed-Size: 14665907
+Filename: v2ray-core_4.44.0-1_mips64_octeonplus.ipk
+Size: 14037682
+SHA256sum: 5c7e6638db4deee84512c5a6769775aafd0e21faee7fcae6d4f857c8b908e7d1
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core-mini
+Version: 4.36.2-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mips64_octeonplus
+Installed-Size: 5429088
+Filename: v2ray-core-mini_4.36.2-1_mips64_octeonplus.ipk
+Size: 5412116
+SHA256sum: 27ec0c9debcf8a9ebd75fdcdc1325a92452b900fbf6dbe46c51b6d733f29a2dd
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.37.2-2
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mips64_octeonplus
+Installed-Size: 5552600
+Filename: v2ray-core-mini_4.37.2-2_mips64_octeonplus.ipk
+Size: 5535762
+SHA256sum: 29f3f7a2e02be01cc41ae097677fe961788b8cf51da3242005f0a84d76a43c63
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.37.3-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mips64_octeonplus
+Installed-Size: 5556265
+Filename: v2ray-core-mini_4.37.3-1_mips64_octeonplus.ipk
+Size: 5539480
+SHA256sum: 4720c4171c0f8281266f79bf1e6e0abef38b7cf9025e0ed9a351a8a26a13b7b4
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.38.3-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mips64_octeonplus
+Installed-Size: 5876603
+Filename: v2ray-core-mini_4.38.3-1_mips64_octeonplus.ipk
+Size: 5858419
+SHA256sum: 96b23c40c86296352b9321620dfb769bb72191c3ab4d7dd0b2a165ff2ebb8916
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.39.2-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mips64_octeonplus
+Installed-Size: 5898868
+Filename: v2ray-core-mini_4.39.2-1_mips64_octeonplus.ipk
+Size: 5880739
+SHA256sum: debcfae91e6341de56d370c29ab881afd4ea9f76894daba4d0062566eb84366a
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.40.1-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mips64_octeonplus
+Installed-Size: 5906635
+Filename: v2ray-core-mini_4.40.1-1_mips64_octeonplus.ipk
+Size: 5888124
+SHA256sum: b73ecb5f91e6fd91fa4ab48bf7c3636b4a3584b2943469d5d738a748e9897a65
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.41.1-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mips64_octeonplus
+Installed-Size: 5918884
+Filename: v2ray-core-mini_4.41.1-1_mips64_octeonplus.ipk
+Size: 5900832
+SHA256sum: 97b4ba8424709e9af52b748cd90c8ef5404e12f83b99cf1f7e68fe1bbb77caa6
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.42.2-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mips64_octeonplus
+Installed-Size: 5834242
+Filename: v2ray-core-mini_4.42.2-1_mips64_octeonplus.ipk
+Size: 5816183
+SHA256sum: 2e272416eedce21e5db18508118320e741a0bf0a534c4dc80bac6266cc77370a
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.43.0-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mips64_octeonplus
+Installed-Size: 5835297
+Filename: v2ray-core-mini_4.43.0-1_mips64_octeonplus.ipk
+Size: 5816950
+SHA256sum: 152408a725ab9da5ddce49be2cc4fa364429c2b94ab20d42549c167b17ead8dd
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.43.0-2
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mips64_octeonplus
+Installed-Size: 5835289
+Filename: v2ray-core-mini_4.43.0-2_mips64_octeonplus.ipk
+Size: 5816965
+SHA256sum: e81927064acbd7d82a2dea9eb5dc0668aa97363a2e76a57fb749f9857dd2570d
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.44.0-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mips64_octeonplus
+Installed-Size: 5836796
+Filename: v2ray-core-mini_4.44.0-1_mips64_octeonplus.ipk
+Size: 5818221
+SHA256sum: 31d05fdce88d17bb318c25e0d24ec0fbcfe8880fb70295ebebd5323ff37ba699
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+

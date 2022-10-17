@@ -1,0 +1,440 @@
+Package: v2ray-core
+Version: 4.36.2-1
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1615945666
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 13013803
+Filename: v2ray-core_4.36.2-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 12962472
+SHA256sum: 33b6cc614140960ef632a1d42d1be77ab1a2113b2c835651d4afa233bb8a0c6e
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.37.2-2
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1618194710
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 13286971
+Filename: v2ray-core_4.37.2-2_arm_cortex-a7_neon-vfpv4.ipk
+Size: 13235851
+SHA256sum: 908e29b3d7835db207cded5fe705a4191a22b43b73454e718b190e2ec8941d1a
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.37.3-1
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1618277317
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 13290037
+Filename: v2ray-core_4.37.3-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 13240161
+SHA256sum: f428c02ae2407d84a8bc07ed5db851bcfe483b4ed4ce4daa264a8a6c685dd54c
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.38.3-1
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1619835141
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 13967897
+Filename: v2ray-core_4.38.3-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 13917329
+SHA256sum: d6f9dc8f898935579a761a712fdbf45c186b2f12e360fb9cda44fc0fc1f7327f
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.39.2-1
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1622085177
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 14033391
+Filename: v2ray-core_4.39.2-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 13978355
+SHA256sum: 53bde5cb9cc60af1d97287547c51b61090ecf8c6f65f60ad44277c196a624f98
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.40.1-1
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1624412964
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 14088545
+Filename: v2ray-core_4.40.1-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 14033700
+SHA256sum: c25b0652e8a7cb0bea24136e9813971d7d584a75f2e4b60f555434dd81e8638e
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.41.1-1
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1628992473
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 15596812
+Filename: v2ray-core_4.41.1-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 14808382
+SHA256sum: e912fce93287629c1d5d38bb56ad5b761de49cfced589a318d29cee6c6458e28
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.42.2-1
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1632189550
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 15100709
+Filename: v2ray-core_4.42.2-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 14522455
+SHA256sum: 7a87dccaca62d626c385694541d072cb44284a2ba860fb872ecf7912786e46d4
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.43.0-1
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1634868599
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 15063808
+Filename: v2ray-core_4.43.0-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 14525700
+SHA256sum: daa1e3b4ec5a9beb1ca8b7c15a129a8785f97e5120393d0d448445b17d7e7145
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.43.0-2
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1635419077
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 15047618
+Filename: v2ray-core_4.43.0-2_arm_cortex-a7_neon-vfpv4.ipk
+Size: 14511854
+SHA256sum: 4521f90bb6920ffe071878daaa6557cc56d9b9e525b7079d8f0b1bf5469b195a
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.44.0-1
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1638756102
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 15251921
+Filename: v2ray-core_4.44.0-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 14658544
+SHA256sum: 29e681f8b64021223fb5dbe6b64b8816499765a5c48ac5112c47a4b10143cb59
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core-mini
+Version: 4.36.2-1
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core-mini
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1615945666
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 3612375
+Filename: v2ray-core-mini_4.36.2-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 3613908
+SHA256sum: 690397e777f0c427b4925d1407882f31bca8dac726abb296c246a3d77f7a4f47
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.37.2-2
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core-mini
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1618194710
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 3690035
+Filename: v2ray-core-mini_4.37.2-2_arm_cortex-a7_neon-vfpv4.ipk
+Size: 3691561
+SHA256sum: 37c0c516d3c6ee2b3c2fef890a7fc5882ce7c1ca39afd47a7a2f0eb410cd03aa
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.37.3-1
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core-mini
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1618277317
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 3692498
+Filename: v2ray-core-mini_4.37.3-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 3694026
+SHA256sum: fe70a32be939291ef04681b6250fd7f92f12f7f5f1f6ca9d1ba6d5b77989afba
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.38.3-1
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core-mini
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1619835141
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 3908372
+Filename: v2ray-core-mini_4.38.3-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 3909986
+SHA256sum: d7967f34a40e1e65ef96fa3c4b065c53e56c083bf1a793883652978a332d8c65
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.39.2-1
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core-mini
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1622085177
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 3926817
+Filename: v2ray-core-mini_4.39.2-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 3928377
+SHA256sum: cac5d2429c6ba5d7fc9b8d1e6e416d73ea6cf87b7959297ecffc71de9eca117f
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.40.1-1
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core-mini
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1624412964
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 3933473
+Filename: v2ray-core-mini_4.40.1-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 3935039
+SHA256sum: 3e64f9dd4b1c5410e305eea2905ad0b11ac017d1c369c9f52508f4b05ae4390f
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.41.1-1
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core-mini
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1628992473
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 3938216
+Filename: v2ray-core-mini_4.41.1-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 3939779
+SHA256sum: f2c6fae19cf49a8ce50b8dcad9d8fe8d67f0d6569dc241019364a4eb2e2e3925
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.42.2-1
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core-mini
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1632189550
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 3861328
+Filename: v2ray-core-mini_4.42.2-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 3862883
+SHA256sum: 1bea82bb65b4e41375ba1d86db794b4621df959eca37c0911a92df57e4e6038e
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.43.0-1
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core-mini
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1634868599
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 3860674
+Filename: v2ray-core-mini_4.43.0-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 3862241
+SHA256sum: 235257aba2afa6cb282382926629d2e9d831f86a42497dce0fc12be122205414
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.43.0-2
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core-mini
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1635419077
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 3861830
+Filename: v2ray-core-mini_4.43.0-2_arm_cortex-a7_neon-vfpv4.ipk
+Size: 3863382
+SHA256sum: 289b8b3aceb3f11ee07df98402fff8d3eb1fc52a500886d0e180313dfd2dbeb7
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.44.0-1
+Depends: libc, ca-certificates
+Provides: v2ray
+Source: /home/runner/work/openwrt-v2ray/openwrt-v2ray
+SourceName: v2ray-core-mini
+License: MIT
+LicenseFiles: LICENSE
+Section: net
+SourceDateEpoch: 1638756102
+Maintainer: Xingwang Liao <kuoruan@gmail.com>
+Architecture: arm_cortex-a7_neon-vfpv4
+Installed-Size: 3869191
+Filename: v2ray-core-mini_4.44.0-1_arm_cortex-a7_neon-vfpv4.ipk
+Size: 3870753
+SHA256sum: acd3d84f09064eef2db94bb244ea081cad6bcfea1b3e07b658d6b64ac32bab8e
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+

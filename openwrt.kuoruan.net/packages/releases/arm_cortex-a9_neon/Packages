@@ -1,0 +1,330 @@
+Package: v2ray-core
+Version: 4.36.2-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_cortex-a9_neon
+Installed-Size: 13013720
+Filename: v2ray-core_4.36.2-1_arm_cortex-a9_neon.ipk
+Size: 12962304
+SHA256sum: ebec1d4f2b896ce0876c44845dc4e2232db0b7907f9d265ee2d30ca4e885092a
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.37.2-2
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_cortex-a9_neon
+Installed-Size: 13289096
+Filename: v2ray-core_4.37.2-2_arm_cortex-a9_neon.ipk
+Size: 13237904
+SHA256sum: 7dd8d023cd53bd9e82111ea60e8935490e93602b4e939331800d7407454dd0d5
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.37.3-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_cortex-a9_neon
+Installed-Size: 13289146
+Filename: v2ray-core_4.37.3-1_arm_cortex-a9_neon.ipk
+Size: 13238899
+SHA256sum: fd927320f3072b8364d94e62530bf2db14226c0a6242912bf753b23089ec11ac
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.38.3-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_cortex-a9_neon
+Installed-Size: 13968967
+Filename: v2ray-core_4.38.3-1_arm_cortex-a9_neon.ipk
+Size: 13918109
+SHA256sum: cd3cbe620157b44549fc854f7cfa3a4300209246efd038284cb9e685516c93ae
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.39.2-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_cortex-a9_neon
+Installed-Size: 14033262
+Filename: v2ray-core_4.39.2-1_arm_cortex-a9_neon.ipk
+Size: 13978382
+SHA256sum: 3191ec3c7674850c13dfd2fa3cb3c6659fc20d2bdff7f169da3eddee42b79d91
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.40.1-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_cortex-a9_neon
+Installed-Size: 14088497
+Filename: v2ray-core_4.40.1-1_arm_cortex-a9_neon.ipk
+Size: 14033441
+SHA256sum: 44e722615b861b844bd5694db87d6fe5a8a89928aaa52a27bba7effe6b5ac343
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.41.1-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_cortex-a9_neon
+Installed-Size: 15596511
+Filename: v2ray-core_4.41.1-1_arm_cortex-a9_neon.ipk
+Size: 14807726
+SHA256sum: ff17cf129f6d41b41c7b375d0e1952e794b52505343a3d1b91ab1e8e20b30048
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.42.2-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_cortex-a9_neon
+Installed-Size: 15102194
+Filename: v2ray-core_4.42.2-1_arm_cortex-a9_neon.ipk
+Size: 14524050
+SHA256sum: d00dc10c32d0c0b7aa0dda5fbaa82c240bc7d73846452f18fd6ccbd2ca2da86d
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.43.0-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_cortex-a9_neon
+Installed-Size: 15063751
+Filename: v2ray-core_4.43.0-1_arm_cortex-a9_neon.ipk
+Size: 14520754
+SHA256sum: 6b32a125b30340d304b1b7e4a90a4be4e31d7f2628081f15d16fd99ff8c310c6
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.43.0-2
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_cortex-a9_neon
+Installed-Size: 15048033
+Filename: v2ray-core_4.43.0-2_arm_cortex-a9_neon.ipk
+Size: 14512896
+SHA256sum: f24473245170f202e6547e752ad5039aa511b6a8e05f3019789e31ba57d0ed45
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.44.0-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_cortex-a9_neon
+Installed-Size: 15253069
+Filename: v2ray-core_4.44.0-1_arm_cortex-a9_neon.ipk
+Size: 14664741
+SHA256sum: 77087559c7dc91f2f29f87a4f65efbfe72b6288761092574ee68ffa038f905e1
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core-mini
+Version: 4.36.2-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_cortex-a9_neon
+Installed-Size: 3613707
+Filename: v2ray-core-mini_4.36.2-1_arm_cortex-a9_neon.ipk
+Size: 3615236
+SHA256sum: 7dc1bfcd8ed4eb3cdf8a712d63de1fa02c9aac9d0a1336730023c6bee67d5677
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.37.2-2
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_cortex-a9_neon
+Installed-Size: 3690128
+Filename: v2ray-core-mini_4.37.2-2_arm_cortex-a9_neon.ipk
+Size: 3691658
+SHA256sum: 9e68936276588e04f552a80561dc7e1837410c168de25d965fccfa2db222a897
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.37.3-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_cortex-a9_neon
+Installed-Size: 3691346
+Filename: v2ray-core-mini_4.37.3-1_arm_cortex-a9_neon.ipk
+Size: 3692866
+SHA256sum: ddd706b5257e2a7c09a3648125300797ad3be9f462e7e6086f458c817caf1540
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.38.3-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_cortex-a9_neon
+Installed-Size: 3908314
+Filename: v2ray-core-mini_4.38.3-1_arm_cortex-a9_neon.ipk
+Size: 3909931
+SHA256sum: c289caa2a76e6113a5d3d288eee4e251ca3e028845381b0ceec3d7d05fa9a85e
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.39.2-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_cortex-a9_neon
+Installed-Size: 3925471
+Filename: v2ray-core-mini_4.39.2-1_arm_cortex-a9_neon.ipk
+Size: 3927045
+SHA256sum: 006a47672b09c74992c6eb5a415c2e4a56585abc464dc66097552aef6759a439
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.40.1-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_cortex-a9_neon
+Installed-Size: 3933960
+Filename: v2ray-core-mini_4.40.1-1_arm_cortex-a9_neon.ipk
+Size: 3935498
+SHA256sum: aaa8d9fa9aff0fbc67e22f234fb266798f8cfd7c0e676bdff4249f8eec5764f1
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.41.1-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_cortex-a9_neon
+Installed-Size: 3939096
+Filename: v2ray-core-mini_4.41.1-1_arm_cortex-a9_neon.ipk
+Size: 3940682
+SHA256sum: b8181fd1cfcb3ace6bb782dc474e789bce8b15b9a1e4a2c248e33a97f6b6e19a
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.42.2-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_cortex-a9_neon
+Installed-Size: 3860627
+Filename: v2ray-core-mini_4.42.2-1_arm_cortex-a9_neon.ipk
+Size: 3862186
+SHA256sum: e228382453f0691bf35a7591f41fed8b40dacc188252d3b7f215d232813ca3ed
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.43.0-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_cortex-a9_neon
+Installed-Size: 3860369
+Filename: v2ray-core-mini_4.43.0-1_arm_cortex-a9_neon.ipk
+Size: 3861936
+SHA256sum: db80f4bdd8d6b1faafedd2cefe927cb97b67ad52753cf4a071b6d187438e23da
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.43.0-2
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_cortex-a9_neon
+Installed-Size: 3861255
+Filename: v2ray-core-mini_4.43.0-2_arm_cortex-a9_neon.ipk
+Size: 3862818
+SHA256sum: 58cfcdd34602e8cd064e2c03ab837df04176b2977cfa404373b2c9a0e7601972
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.44.0-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_cortex-a9_neon
+Installed-Size: 3867926
+Filename: v2ray-core-mini_4.44.0-1_arm_cortex-a9_neon.ipk
+Size: 3869490
+SHA256sum: 7bad2be65dd38f3956ea3ca00d6fb688f9ef5de53c10c36aa3c9773370e19ab8
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+

@@ -1,0 +1,330 @@
+Package: v2ray-core
+Version: 4.36.2-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: i386_pentium4
+Installed-Size: 13215205
+Filename: v2ray-core_4.36.2-1_i386_pentium4.ipk
+Size: 13159632
+SHA256sum: f66b0bafd7ec7e11b3bf0863347dabce85a94e46b84b4759fec21852fd741f64
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.37.2-2
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: i386_pentium4
+Installed-Size: 13507054
+Filename: v2ray-core_4.37.2-2_i386_pentium4.ipk
+Size: 13451959
+SHA256sum: c3d1364d3cc2b43289b7fc948d751dc7a5aa51dcb1947350f97e3e3e5220865a
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.37.3-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: i386_pentium4
+Installed-Size: 13505240
+Filename: v2ray-core_4.37.3-1_i386_pentium4.ipk
+Size: 13451096
+SHA256sum: 6c0935f446253b75e5b23daa1949dc9a1a5211e5af7830375d15153c4ac9e386
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.38.3-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: i386_pentium4
+Installed-Size: 14206076
+Filename: v2ray-core_4.38.3-1_i386_pentium4.ipk
+Size: 14150784
+SHA256sum: 7426bd94ce5ba6382d9140c4c0aa58a21533ca55f3d960b12332eaf3e17f0b1f
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.39.2-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: i386_pentium4
+Installed-Size: 14274658
+Filename: v2ray-core_4.39.2-1_i386_pentium4.ipk
+Size: 14214903
+SHA256sum: 9ece8f700c900d48440ae33905744ceffb64aa55dc0a207179462d880ea15758
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.40.1-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: i386_pentium4
+Installed-Size: 14330395
+Filename: v2ray-core_4.40.1-1_i386_pentium4.ipk
+Size: 14270655
+SHA256sum: cc196128fb2ebed7a4f976b4aad7b5ed27ad59a0e59e57a8f122f3343ed97e66
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.41.1-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: i386_pentium4
+Installed-Size: 15834247
+Filename: v2ray-core_4.41.1-1_i386_pentium4.ipk
+Size: 15040309
+SHA256sum: 999406ef7b8cbe9ab6ca24ba754c811afa409ecf1f146036aaa3efa1f2d23c73
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.42.2-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: i386_pentium4
+Installed-Size: 15207318
+Filename: v2ray-core_4.42.2-1_i386_pentium4.ipk
+Size: 14624229
+SHA256sum: a67147d4aeb1eeec2cfe49041d8d89a948a1ce40efdf8c3b2b91ad8faee235cd
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.43.0-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: i386_pentium4
+Installed-Size: 15164119
+Filename: v2ray-core_4.43.0-1_i386_pentium4.ipk
+Size: 14623404
+SHA256sum: 5e910ac71e596cf2ee515bdb769f1d7a3fa56d73ce1e0bc80d761a97ab480e42
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.43.0-2
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: i386_pentium4
+Installed-Size: 15149067
+Filename: v2ray-core_4.43.0-2_i386_pentium4.ipk
+Size: 14611233
+SHA256sum: 5707df5de64548a4ba98e104e0e9abf5f9b9a161411069ad0e30110b89db8747
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.44.0-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: i386_pentium4
+Installed-Size: 15359871
+Filename: v2ray-core_4.44.0-1_i386_pentium4.ipk
+Size: 14753399
+SHA256sum: 56a4cfb91f2b3d14cb7ab135fa2d683e30d7b9858fffebb4cd0e3aa39234a7c5
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core-mini
+Version: 4.36.2-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: i386_pentium4
+Installed-Size: 3861333
+Filename: v2ray-core-mini_4.36.2-1_i386_pentium4.ipk
+Size: 3862872
+SHA256sum: 0cb15b66d6b1e2fc66fee4ccc6156b83988b33fb8c9af8b7fc9d66ef047ef80d
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.37.2-2
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: i386_pentium4
+Installed-Size: 4271384
+Filename: v2ray-core-mini_4.37.2-2_i386_pentium4.ipk
+Size: 4272991
+SHA256sum: 44ebfe4a172e3dff0b09a7696d2bb5e011deeee27cd678b08059bd6dabec3974
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.37.3-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: i386_pentium4
+Installed-Size: 4271128
+Filename: v2ray-core-mini_4.37.3-1_i386_pentium4.ipk
+Size: 4272740
+SHA256sum: bb9140ace40f06800d3c4bfc40445b9083934631e91204a43a06854023c7d378
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.38.3-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: i386_pentium4
+Installed-Size: 4524233
+Filename: v2ray-core-mini_4.38.3-1_i386_pentium4.ipk
+Size: 4525875
+SHA256sum: 80aefb292c84a24321e7d9f5fab698f0e65d0c2abdfd47c7a6a98987bda2e739
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.39.2-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: i386_pentium4
+Installed-Size: 4546076
+Filename: v2ray-core-mini_4.39.2-1_i386_pentium4.ipk
+Size: 4547722
+SHA256sum: 57ad2a829f3456804dffbcbd1bbc411f0ddaea75411f4700033666babf64887c
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.40.1-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: i386_pentium4
+Installed-Size: 4555703
+Filename: v2ray-core-mini_4.40.1-1_i386_pentium4.ipk
+Size: 4557350
+SHA256sum: 2841ebd6877926cd2842a1121eda566b156e7a288535737775b2f15121edd067
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.41.1-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: i386_pentium4
+Installed-Size: 4211174
+Filename: v2ray-core-mini_4.41.1-1_i386_pentium4.ipk
+Size: 4212785
+SHA256sum: 7d7cbb20fdba9850721b6e83725b25ccba442128ed6f52651cbf5c0218b1d2ae
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.42.2-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: i386_pentium4
+Installed-Size: 4440030
+Filename: v2ray-core-mini_4.42.2-1_i386_pentium4.ipk
+Size: 4441666
+SHA256sum: 77dea061fe09d34833c53e2d068cb59f24a265ddedcce4b96fb3156a693c9e27
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.43.0-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: i386_pentium4
+Installed-Size: 4439788
+Filename: v2ray-core-mini_4.43.0-1_i386_pentium4.ipk
+Size: 4441427
+SHA256sum: 1bdbf5759ffabea480259bafc50e66be232345350309672a0abe06e6488e125f
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.43.0-2
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: i386_pentium4
+Installed-Size: 4439789
+Filename: v2ray-core-mini_4.43.0-2_i386_pentium4.ipk
+Size: 4441433
+SHA256sum: f7a1da13acdcbd468dbe85bd981cf0784e91da29a42995ec2b3d8c96bae5292d
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.44.0-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: i386_pentium4
+Installed-Size: 4452772
+Filename: v2ray-core-mini_4.44.0-1_i386_pentium4.ipk
+Size: 4454417
+SHA256sum: d352c07d50a482f1bb014932fc63b1840224bb939ae46c85d95e80e28620d490
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+

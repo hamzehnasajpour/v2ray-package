@@ -1,0 +1,330 @@
+Package: v2ray-core
+Version: 4.36.2-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mipsel_mips32
+Installed-Size: 12389389
+Filename: v2ray-core_4.36.2-1_mipsel_mips32.ipk
+Size: 12332408
+SHA256sum: 26d6f4d5b9919461003d0d7b30339dfdc6abff3a4d3b07ccdb4914acd1ab9cb5
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.37.2-2
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mipsel_mips32
+Installed-Size: 12664417
+Filename: v2ray-core_4.37.2-2_mipsel_mips32.ipk
+Size: 12608025
+SHA256sum: 71a7370478e5079cda4f6e289f2ae68c38206937cdb7c7b47bb10420251651ab
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.37.3-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mipsel_mips32
+Installed-Size: 12666754
+Filename: v2ray-core_4.37.3-1_mipsel_mips32.ipk
+Size: 12611212
+SHA256sum: 5973131d256c6bf419dada19e0b688f026b937160fdbcd9f68fe45cab2800b68
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.38.3-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mipsel_mips32
+Installed-Size: 13299082
+Filename: v2ray-core_4.38.3-1_mipsel_mips32.ipk
+Size: 13242418
+SHA256sum: 894f32f32a186751612efe28729dcaaf297432e0b5db67f7217314ded1f8dd89
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.39.2-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mipsel_mips32
+Installed-Size: 13364531
+Filename: v2ray-core_4.39.2-1_mipsel_mips32.ipk
+Size: 13303706
+SHA256sum: 9ce2883866d0595fac9dbe000250d79dc4ce7b36c574fa01ade4a62d11234f95
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.40.1-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mipsel_mips32
+Installed-Size: 13418273
+Filename: v2ray-core_4.40.1-1_mipsel_mips32.ipk
+Size: 13358020
+SHA256sum: b55be7fbc51f4f778ffa7942f8dd6fd484581cf7c89fd7aa6b89855512c5902c
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.41.1-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mipsel_mips32
+Installed-Size: 14922637
+Filename: v2ray-core_4.41.1-1_mipsel_mips32.ipk
+Size: 14127690
+SHA256sum: 4a04b6588967dfe525ed7669f92e017e0fbc734a62269eb1252567fc8ca94e4d
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.42.2-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mipsel_mips32
+Installed-Size: 14328519
+Filename: v2ray-core_4.42.2-1_mipsel_mips32.ipk
+Size: 13742901
+SHA256sum: 4bd55c9afee17ca16cf1b61814a445b77313eaa9275f6fceef70ffd5df360c2d
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.43.0-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mipsel_mips32
+Installed-Size: 14284909
+Filename: v2ray-core_4.43.0-1_mipsel_mips32.ipk
+Size: 13737129
+SHA256sum: eef5caf4a60ec16bb294a7e17cee3faf0c34d7f85271b0a83a85d8b4aad24cbb
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.43.0-2
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mipsel_mips32
+Installed-Size: 14266565
+Filename: v2ray-core_4.43.0-2_mipsel_mips32.ipk
+Size: 13730433
+SHA256sum: 24d8b564dad5d3f68e2305d634c0cc181efb20952bdc2443c854a65083eebcee
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.44.0-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mipsel_mips32
+Installed-Size: 14474858
+Filename: v2ray-core_4.44.0-1_mipsel_mips32.ipk
+Size: 13873304
+SHA256sum: aeb3f3ae0c879d509760c891064912d4ef35ec72822553de957fd66094b5584a
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core-mini
+Version: 4.36.2-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mipsel_mips32
+Installed-Size: 3534363
+Filename: v2ray-core-mini_4.36.2-1_mipsel_mips32.ipk
+Size: 3535859
+SHA256sum: 62052181d0031c5cce6dd2bdaa6ca989f99e3a652035b145f63476201d66696c
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.37.2-2
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mipsel_mips32
+Installed-Size: 3615752
+Filename: v2ray-core-mini_4.37.2-2_mipsel_mips32.ipk
+Size: 3617258
+SHA256sum: 4ee78ee70e6778c8ac34d189ed6a04f3241701f7772c4e628ef00298363c417f
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.37.3-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mipsel_mips32
+Installed-Size: 3615596
+Filename: v2ray-core-mini_4.37.3-1_mipsel_mips32.ipk
+Size: 3617102
+SHA256sum: 7fa51046c8a52100af9700a4b73f5935455a0d9742021dbe15e7d4d7f5bd66df
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.38.3-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mipsel_mips32
+Installed-Size: 3824840
+Filename: v2ray-core-mini_4.38.3-1_mipsel_mips32.ipk
+Size: 3826378
+SHA256sum: cc5616c82e02589c6c481162b11ad24ff3b244f6362bb188df07f63c8650c8bc
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.39.2-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mipsel_mips32
+Installed-Size: 3842213
+Filename: v2ray-core-mini_4.39.2-1_mipsel_mips32.ipk
+Size: 3843772
+SHA256sum: 8ea77dac6e2371d35245fbb72b0ad6922c6f58f29448c3f1ba54344cb0cd27f1
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.40.1-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mipsel_mips32
+Installed-Size: 3851217
+Filename: v2ray-core-mini_4.40.1-1_mipsel_mips32.ipk
+Size: 3852777
+SHA256sum: 89bba65596cad8d5933cf50666a155a15caa50138969cec2daca1bce8eac3ad7
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.41.1-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mipsel_mips32
+Installed-Size: 3856459
+Filename: v2ray-core-mini_4.41.1-1_mipsel_mips32.ipk
+Size: 3858064
+SHA256sum: fc61355acde1dc10cc896fda215745d00956b6be0faaf308e3f19f2bc61e4333
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.42.2-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mipsel_mips32
+Installed-Size: 3753302
+Filename: v2ray-core-mini_4.42.2-1_mipsel_mips32.ipk
+Size: 3754823
+SHA256sum: 98cff90ce05aa481f302a201dbf5f79b99e405990b95f230575e765caced76bc
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.43.0-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mipsel_mips32
+Installed-Size: 3755386
+Filename: v2ray-core-mini_4.43.0-1_mipsel_mips32.ipk
+Size: 3756920
+SHA256sum: 9db3dc58496a53a611fc78f3fd5a11973583be1dbe5ec0d2dacbac559c8d539b
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.43.0-2
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mipsel_mips32
+Installed-Size: 3754120
+Filename: v2ray-core-mini_4.43.0-2_mipsel_mips32.ipk
+Size: 3755653
+SHA256sum: 6ac18f6e418a2e99e3113d4f5661edd136268bfc8f6d5d331d9eae8a16efa4d4
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.44.0-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: mipsel_mips32
+Installed-Size: 3763054
+Filename: v2ray-core-mini_4.44.0-1_mipsel_mips32.ipk
+Size: 3764594
+SHA256sum: 4caad7fc093539df9f209122072976af42759f1c20d240662a8cb4062bb8b15a
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+

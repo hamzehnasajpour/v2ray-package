@@ -1,0 +1,330 @@
+Package: v2ray-core
+Version: 4.36.2-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_arm1176jzf-s_vfp
+Installed-Size: 13019167
+Filename: v2ray-core_4.36.2-1_arm_arm1176jzf-s_vfp.ipk
+Size: 12967169
+SHA256sum: 2336b5d9bf6dd0e61a6e8009a4e11436c9a759a0be7c9e3a8e519585cb1937e9
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.37.2-2
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_arm1176jzf-s_vfp
+Installed-Size: 13297452
+Filename: v2ray-core_4.37.2-2_arm_arm1176jzf-s_vfp.ipk
+Size: 13246698
+SHA256sum: 75aea86a05a9f7ac9780b23e3bd0a45a27355bcccb50483c2c3ee16fb3b6b120
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.37.3-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_arm1176jzf-s_vfp
+Installed-Size: 13299004
+Filename: v2ray-core_4.37.3-1_arm_arm1176jzf-s_vfp.ipk
+Size: 13249549
+SHA256sum: ef6d9329f9345b8e5630a892a70925030d80afacd445bb6a4b73446c5e8320f0
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.38.3-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_arm1176jzf-s_vfp
+Installed-Size: 13979748
+Filename: v2ray-core_4.38.3-1_arm_arm1176jzf-s_vfp.ipk
+Size: 13928534
+SHA256sum: 08e971fdad4fe00f4eca9dd6d9c81485809b69e068c1cb2cabebe32c102b447e
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.39.2-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_arm1176jzf-s_vfp
+Installed-Size: 14044457
+Filename: v2ray-core_4.39.2-1_arm_arm1176jzf-s_vfp.ipk
+Size: 13988966
+SHA256sum: 38c4bbcac95029c7a4493ab87ca5f93cb6476071570a27bf3c921579f4f5d560
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.40.1-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_arm1176jzf-s_vfp
+Installed-Size: 14099758
+Filename: v2ray-core_4.40.1-1_arm_arm1176jzf-s_vfp.ipk
+Size: 14045681
+SHA256sum: 15d4ed8a956c59513ba72919f3b0ce0fac3eedf4ddcf127912ccaaf2650ccd37
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.41.1-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_arm1176jzf-s_vfp
+Installed-Size: 15606021
+Filename: v2ray-core_4.41.1-1_arm_arm1176jzf-s_vfp.ipk
+Size: 14817584
+SHA256sum: 386c80a4e1ac1df963ddfb7960e871000ec006fc915e099c34cd126b8651e0e7
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.42.2-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_arm1176jzf-s_vfp
+Installed-Size: 15114489
+Filename: v2ray-core_4.42.2-1_arm_arm1176jzf-s_vfp.ipk
+Size: 14535859
+SHA256sum: 95a2990d8dbe2f1f12fac18f65bcdb25acb0f91a1983e57fef5b0823040d233b
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.43.0-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_arm1176jzf-s_vfp
+Installed-Size: 15076227
+Filename: v2ray-core_4.43.0-1_arm_arm1176jzf-s_vfp.ipk
+Size: 14533232
+SHA256sum: 9377c45258ca911b02c570ad2f1b954e7a36f25204e4c51c76163add2c13f0a9
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.43.0-2
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_arm1176jzf-s_vfp
+Installed-Size: 15059357
+Filename: v2ray-core_4.43.0-2_arm_arm1176jzf-s_vfp.ipk
+Size: 14526728
+SHA256sum: 24dadf965035dc46509049e3018e27a34d43c47b259de2e341d87d34f98318b8
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core
+Version: 4.44.0-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_arm1176jzf-s_vfp
+Installed-Size: 15266598
+Filename: v2ray-core_4.44.0-1_arm_arm1176jzf-s_vfp.ipk
+Size: 14667308
+SHA256sum: 2c3be5a495c8e1d69f55b174eede7ffa642cdaffc4586d06ac216232a9ecbd7a
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains v2ray, v2ctl, geoip.dat and geosite.dat.
+
+Package: v2ray-core-mini
+Version: 4.36.2-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_arm1176jzf-s_vfp
+Installed-Size: 3616874
+Filename: v2ray-core-mini_4.36.2-1_arm_arm1176jzf-s_vfp.ipk
+Size: 3618399
+SHA256sum: 45b18e749bb2c52ad27f8cb75518410047802072be2a101ebf3e7658640dd860
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.37.2-2
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_arm1176jzf-s_vfp
+Installed-Size: 3693213
+Filename: v2ray-core-mini_4.37.2-2_arm_arm1176jzf-s_vfp.ipk
+Size: 3694791
+SHA256sum: 3ecd9f839436c2a7dca513eed8c625a8501d8a14180f3d75aa6a7f6ded741128
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.37.3-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_arm1176jzf-s_vfp
+Installed-Size: 3694884
+Filename: v2ray-core-mini_4.37.3-1_arm_arm1176jzf-s_vfp.ipk
+Size: 3696407
+SHA256sum: 4515352ab966ffb4229dee18ca75b97a37a457b25b89671567d89941a4c9421b
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.38.3-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_arm1176jzf-s_vfp
+Installed-Size: 3908810
+Filename: v2ray-core-mini_4.38.3-1_arm_arm1176jzf-s_vfp.ipk
+Size: 3910380
+SHA256sum: bb924c570a20acda77e485037b421e7aeb0db7fbc143f2bb3aa3efa55a4e862d
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.39.2-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_arm1176jzf-s_vfp
+Installed-Size: 3931122
+Filename: v2ray-core-mini_4.39.2-1_arm_arm1176jzf-s_vfp.ipk
+Size: 3932690
+SHA256sum: efcaa05a80cc3a0130915e58e9fa60e6f2f1bc48c9768702c5e6269c41de7e61
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.40.1-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_arm1176jzf-s_vfp
+Installed-Size: 3938403
+Filename: v2ray-core-mini_4.40.1-1_arm_arm1176jzf-s_vfp.ipk
+Size: 3940011
+SHA256sum: be1c160a9cf2056f3c526581177bba76a09d5736d378a7795c751192c09473aa
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.41.1-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_arm1176jzf-s_vfp
+Installed-Size: 3942096
+Filename: v2ray-core-mini_4.41.1-1_arm_arm1176jzf-s_vfp.ipk
+Size: 3943677
+SHA256sum: b245a67d2fac7df109dfff935fa02abf37136d1c029569c6f58e82f041ad155d
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.42.2-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_arm1176jzf-s_vfp
+Installed-Size: 3864140
+Filename: v2ray-core-mini_4.42.2-1_arm_arm1176jzf-s_vfp.ipk
+Size: 3865701
+SHA256sum: 2ed40fd8dac37141ad0c3e5ef1cfe9e02a7051e5541e984e301f31171b220a1e
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.43.0-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_arm1176jzf-s_vfp
+Installed-Size: 3865729
+Filename: v2ray-core-mini_4.43.0-1_arm_arm1176jzf-s_vfp.ipk
+Size: 3867293
+SHA256sum: 85fbcb91340ed03cb09aa4cb4796788a0c46cd9cd678cbebf7fb0939a336efc0
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.43.0-2
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_arm1176jzf-s_vfp
+Installed-Size: 3864303
+Filename: v2ray-core-mini_4.43.0-2_arm_arm1176jzf-s_vfp.ipk
+Size: 3865872
+SHA256sum: f767701eb35c5c2adf521eef3c153929d08e6b05c2d84f03dcd94c7e60fd53a3
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
+Package: v2ray-core-mini
+Version: 4.44.0-1
+Depends: libc, ca-certificates
+Provides: v2ray
+License: MIT
+Section: net
+Architecture: arm_arm1176jzf-s_vfp
+Installed-Size: 3872536
+Filename: v2ray-core-mini_4.44.0-1_arm_arm1176jzf-s_vfp.ipk
+Size: 3874099
+SHA256sum: c1f6be99c47f8fe0a796f2d0b4f6e98b99396f2e483da06a3f9b12bc122b76fd
+Description:  Project V is a set of network tools that help you to build your own computer network.
+ It secures your network connections and thus protects your privacy.
+ This package contains only v2ray.
+
